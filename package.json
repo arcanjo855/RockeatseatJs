@@ -1,0 +1,29 @@
+{
+  "name": "rocketseatjs",
+  "version": "1.0.0",
+  "description": "Fiz rocketseat e vou usar pra treinar/consultar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint --fix ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcanjo855/RocketseatJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arcanjo855/RocketseatJs/issues"
+  },
+  "homepage": "https://github.com/arcanjo855/RocketseatJs#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "2.2.1"
+  }
+}
